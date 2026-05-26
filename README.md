@@ -25,7 +25,7 @@ This project allows users to create and manage monthly objectives through an int
 - Material 3
 - Android Studio
 
-## Visual Part
+## Demo
 
 <h1><p align="center">
 <img src= "GIF.gif"width="300"/> </p>
