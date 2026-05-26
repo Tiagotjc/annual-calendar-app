@@ -1,5 +1,5 @@
 <h1>
-<img src= "ImageAnnualCalendar.png"> 
+<img src= "Image.png"> 
 </h1>
 
 # Annual Calendar App 📅
