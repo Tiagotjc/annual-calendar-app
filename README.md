@@ -1,16 +1,15 @@
-<h1>
-<img src= "ImageAnnualCalendar.png"> 
+<h1><p align="center">
+<img src= "Image.png"width="470"> 
 </h1>
 
-# Annual Calendar App 📅
+# Annual Calendar App 
 
 A simple Android productivity app built with Kotlin and Jetpack Compose.
-
 This project allows users to create and manage monthly objectives through an interactive and animated interface.
 
 ## Features
 
-- Monthly goal organization
+- Monthly goal organization and resque
 - Expandable cards
 - Animated UI transitions
 - State management with rememberSaveable
