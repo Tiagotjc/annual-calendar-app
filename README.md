@@ -1,5 +1,5 @@
 <h1><p align="center">
-<img src= "Image.png"width="470"> 
+<img src= "ImageBanner.png"width="500"> 
 </h1>
 
 # Annual Calendar App 
